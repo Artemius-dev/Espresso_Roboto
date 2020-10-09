@@ -12,6 +12,4 @@
 /captures
 .externalNativeBuild
 .cxx
-/app/src/androidTest/java/com/artyom/espresso/roboto/RobotInput.kt
-/app/src/androidTest/java/com/artyom/espresso/roboto/RobotCheck.kt
-/app/src/androidTest/java/com/artyom/espresso/roboto/MainActivityTest.kt
+
